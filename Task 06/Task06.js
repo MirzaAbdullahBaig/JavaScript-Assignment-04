@@ -1,0 +1,1 @@
+// Task 06: Write a program that simulates a dice using random() method of JS Math class. Display the value of dice in your browser.

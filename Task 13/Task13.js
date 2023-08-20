@@ -1,0 +1,1 @@
+// Task 13: Write a program that determines the minutes since midnight, Jan 1, 1970 and assigns it to a variable that hasn't been declared beforehand. Use any variable you like to represent the Date object.
